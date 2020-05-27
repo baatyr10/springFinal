@@ -73,8 +73,8 @@ Run Application
 **Facebook**: https://www.facebook.com/baatyr.10
 
 ## License
-[MIT License](LICENSE).
+[Apache-2.0 License](LICENSE).
 <br>
-[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 <br>
 © Baatyr Birnazarov

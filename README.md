@@ -61,7 +61,9 @@ Run Application
     1. Click delete icon delete permanently or
     2. Click restore restore deleted task.
     
-[Deploy Link](https://spr1ngproject.herokuapp.com/)
+[Deploy Application](https://spr1ngproject.herokuapp.com/)
+------------
+[Documentation](https://github.com/baatyr10/springFinal/wiki)
 ------------
 
 

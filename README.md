@@ -61,9 +61,8 @@ Run Application
     1. Click delete icon delete permanently or
     2. Click restore restore deleted task.
     
-Deploy Link
+[Deploy Link](https://spr1ngproject.herokuapp.com/)
 ------------
-https://spr1ngproject.herokuapp.com/
 
 
 ## Links:
